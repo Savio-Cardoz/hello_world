@@ -1,7 +1,7 @@
 #include <stdio.h>
+#include "function.hpp"
 
-int main()
+void printText()
 {
     printf("Hello, World, Again\n");
-    return 0;
 }
